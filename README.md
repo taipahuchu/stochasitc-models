@@ -1,1 +1,1 @@
-# stochasitc-models
+# stochasitc-models / Markov Jump Process
