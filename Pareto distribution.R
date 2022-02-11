@@ -1,7 +1,7 @@
 rpareto = function(n, alpha, lambda) {
   rp = lambda * ((1 - runif(n))^(-1/alpha) - 1)
   rp}
-
+#Part (ia)
 #part (i)
 set.seed (123)
 
