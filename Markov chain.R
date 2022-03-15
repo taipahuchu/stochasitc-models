@@ -5,7 +5,7 @@ markovchain = function(p,q,r){
   P = matrix(data = c(p,1-p,0,q,0,1-q,0,r,1-r), nrow=3, byrow=TRUE)
   mc = new("markovchain", transitionMatrix = P)
   mc}
-
+uuuu
 #part(ii)
 statdist = matrix(data = 0, nrow = 3, ncol = 9)
 
