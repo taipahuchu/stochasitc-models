@@ -1,4 +1,4 @@
-mmmm
+mmm
 
 
 install.packages("markovchain") # if not installed
